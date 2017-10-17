@@ -17,7 +17,7 @@ def bonus
           {name: "Mercutio", age: "18", attitude: "hot-headed"},
           {name: "Nurse", age: "44", attitude: "worried"}
       ]
-      
+
   }
 
   #code your solution here:
@@ -28,4 +28,4 @@ def bonus
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy
-end 
+end
